@@ -1,7 +1,6 @@
 # Movie-Databse-Application
 
--Prerequisites
-Java 21 or higher is required to run this application
+Prerequisites: Java 21 or higher is required to run this application
 
 How to Run the Application:
 Option 1: 
